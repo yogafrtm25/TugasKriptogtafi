@@ -108,6 +108,11 @@ if __name__ == "__main__":
 
 
 ````
+Penjelasan
+Persiapan Kunci: Kunci yang diberikan diolah untuk membuang karakter duplikat dan menyiapkan matriks 5x5.
+Format Teks: Teks diformat untuk memastikan setiap pasangan karakter tidak sama, dan jika ada karakter yang sama, 'X' disisipkan.
+Enkripsi: Menggunakan aturan Playfair untuk mengenkripsi teks.
+Dekripsi: Menggunakan aturan Playfair yang sama untuk mendekripsi teks yang terenkripsi.
 
 Hasil RUN
 
