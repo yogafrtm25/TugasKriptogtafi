@@ -68,3 +68,4 @@ print("Plaintext 1:", playfair_encrypt(plaintext1, key))
 print("Plaintext 2:", playfair_encrypt(plaintext2, key))
 print("Plaintext 3:", playfair_encrypt(plaintext3, key))
 ````
+![Screenshot 2024-10-15 085941](https://github.com/user-attachments/assets/01773fc8-46ca-47f2-8048-45dec8fdf1d8)
